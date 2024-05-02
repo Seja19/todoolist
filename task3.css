@@ -85,7 +85,7 @@ ul li::before{
     height: 28px;
     width:28px;
     border-radius: 50%;
-    background-image: url(../task3/unchecked.png);
+    background-image: url(https://raw.githubusercontent.com/Seja19/todoolist/main/unchecked.png);
     background-size: 25px;
     background-position: center;
     top:9px;
@@ -97,7 +97,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(../task3/checked.png);
+    background-image: url(https://raw.githubusercontent.com/Seja19/todoolist/main/checked.png);
    height:28x;
    width:28px;
    border-radius:50%;
